@@ -6,3 +6,5 @@ mi primera contribución en local
 Acabo de conectar GitHub Copilot
 
 Este comit lo hice desde desde github 
+
+una actualización más para pdoer usar fetch 
